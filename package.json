@@ -12,5 +12,8 @@
     "]"
   ],
   "author": "mahmoud elshall",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
